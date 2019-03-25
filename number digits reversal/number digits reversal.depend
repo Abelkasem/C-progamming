@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520638235 source:c:\users\abuelkasem\documents\codeblock c\number digits reversal\main.c
+	<stdio.h>
+	<stdlib.h>
+

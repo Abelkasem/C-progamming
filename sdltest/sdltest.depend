@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532170687 source:c:\users\dell\documents\codeblock c\sdltest\main.c
+	"SDL.h"
+	<stdio.h>
+

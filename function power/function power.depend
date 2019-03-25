@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521117329 source:c:\users\abuelkasem\documents\codeblock c\function power\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519492136 source:c:\users\abuelkasem\documents\codeblock c\cinema tickets\main.c
+	<stdio.h>
+	<stdlib.h>
+

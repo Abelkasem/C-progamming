@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523026830 source:c:\users\abuelkasem\documents\codeblock c\mul_sources\func.c
+	<stdio.h>
+	<stdlib.h>
+
+1523026967 source:c:\users\abuelkasem\documents\codeblock c\mul_sources\main.c
+	<stdio.h>
+	<stdlib.h>
+

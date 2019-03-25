@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1525245831 source:c:\users\abuelkasem\documents\codeblock c\ffd\fuse.c
+	<avr/io.h>
+
+1525245931 source:c:\users\abuelkasem\documents\codeblock c\ffd\main.c
+	<avr/io.h>
+	<util/delay.h>
+

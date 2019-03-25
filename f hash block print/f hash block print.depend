@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520200187 source:c:\users\abuelkasem\documents\codeblock c\f hash block print\main.c
+	<stdio.h>
+	<stdlib.h>
+

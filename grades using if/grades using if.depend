@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520072983 source:c:\users\abuelkasem\documents\codeblock c\grades using if\main.c
+	<stdio.h>
+	<stdlib.h>
+

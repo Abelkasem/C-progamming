@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532803129 source:c:\users\dell\documents\codeblock c\array sum\main.c
+	<stdio.h>
+	<stdlib.h>
+

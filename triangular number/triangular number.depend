@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520631596 source:c:\users\abuelkasem\documents\codeblock c\triangular number\main.c
+	<stdio.h>
+	<stdlib.h>
+

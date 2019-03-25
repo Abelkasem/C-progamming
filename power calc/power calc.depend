@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520196181 source:c:\users\abuelkasem\documents\codeblock c\power calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
